@@ -1,2 +1,6 @@
-# Event-kaggle-Recommendation-Engine-Challenge
-Predict what events our users will be interested in based on user actions, event metadata, and demographic information.
+总共分为4个部分：  
+
+1. 数据清洗与预处理  
+2. 构建特征(包括协同过滤推荐度等复杂特征)  
+3. 建模  
+4. 格式调整(使得符合Kaggle提交的格式)  
